@@ -1,0 +1,18 @@
+.h1{
+  text-align:center;
+}
+.canvas {
+  background: #eee;
+  text-align: center;
+  }
+.canvas-wrapper{
+  width:480px;
+  height: 500px;
+  margin:0 auto;
+  border: solid;
+  margin-top: 100px;
+}
+
+.start{
+  margin:0 auto;
+}
